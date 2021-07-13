@@ -39,8 +39,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate,UNUserNotificationCenterDe
         
         
         
-
-            
             
         //}
         //FCM用トークン取得
